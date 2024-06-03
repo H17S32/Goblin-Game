@@ -1,5 +1,5 @@
 // Goblin game
-// Created Odemchuk 6/1/2024
+// Created 6/1/2024
 package Final2;
 
 import java.util.*;
